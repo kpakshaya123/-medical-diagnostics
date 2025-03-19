@@ -1,8 +1,8 @@
 🏥 AI-Powered Medical Diagnostics 🚀
 🌟 Overview
 🚀 Harnessing the power of Artificial Intelligence, this project predicts diseases based on medical data! Whether it's symptoms, lab results, or imaging data, our smart AI model provides fast, data-driven insights to assist in early diagnosis and medical decision-making.
-🔍 Why this project?
 
+🔍 Why this project?
 ✔️ Faster & more accurate diagnosis
 ✔️ Reduces human error in medical assessments
 ✔️ Supports doctors in decision-making
